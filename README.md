@@ -1,2 +1,3 @@
 # OpenCV-face-recognition
-Face recognition using Haar cascades and Local Binary Pattern 
+Face dectection using Haar cascades and Local Binary Pattern.
+Detects faces present in a live video using your webcam.
